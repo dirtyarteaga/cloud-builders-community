@@ -1,0 +1,2 @@
+gcloud builds submit . --config cloudbuild.yaml
+gcloud builds submit . --config cloudbuild_binauthz-attestation.yaml
